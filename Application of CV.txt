@@ -1,0 +1,7 @@
+Applications of CV:
+--------------------
+1)Self Driving cars(Automobile)
+2)Cancer Detection at early stage (HealthCare)
+3)Detecting cracks , quality of tools (Manufacturing)
+4) Surveilance Camera to detect criminal activities (Security)
+5) Language Translation using image ( Tourism)
